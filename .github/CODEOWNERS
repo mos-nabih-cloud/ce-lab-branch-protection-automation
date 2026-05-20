@@ -1,0 +1,12 @@
+# Default owners for everything
+*                       @mos-nabih-cloud
+ 
+# Terraform files require platform team review
+*.tf                    @mos-nabih-cloud
+*.tfvars                @mos-nabih-cloud
+ 
+# Workflow files require DevOps lead review
+.github/workflows/      @mos-nabih-cloud
+ 
+# Documentation can be reviewed by anyone on the team
+*.md                    @mos-nabih-cloud
